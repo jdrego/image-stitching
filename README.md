@@ -7,8 +7,8 @@ Creating Panorama images from 3 separate images using Image Stitching
 3. openCV == 3.4.2
 4. matplotlib == 3.1.1
 ---
-# Input Images
+## Input Images
 ![](./input_images/keble_a.jpg)![](./input_images/keble_b.jpg)![](./input_images/keble_c.jpg)
 
-# Output Panorama Image
+### Output Panorama Image
 ![](./output_images/panorama.jpeg)
