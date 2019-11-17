@@ -1,5 +1,5 @@
-# image-stitching
-Creating Panorama images from 3 separate images using Image Stitching
+# Image Stitching for Panoramic Images
+Creating Panorama images from 3 separate images using Image Stitching by implementing Harris Corners feature detection and Angle-based feature matching to estimate Homography transformations using the center image as the reference frame.
 
 # Requirements
 1. python == 3.7.4
@@ -14,3 +14,8 @@ Left image                      | Center Image                    | Right Image
 
 ### Output Panorama Image
 ![](./output_images/panorama.jpeg)
+
+# Instructions
+---
+Coming soon...
+
