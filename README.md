@@ -15,7 +15,8 @@ Left image                      | Center Image                    | Right Image
 ### Output Panorama Image
 ![](./output_images/panorama.jpeg)
 
-# Instructions
 ---
+
+# Instructions
 Coming soon...
 
